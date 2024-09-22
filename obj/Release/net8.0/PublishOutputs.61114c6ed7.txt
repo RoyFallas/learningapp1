@@ -1,0 +1,7 @@
+C:\Users\Roy Fallas\Desktop\Files\Study\Azure\AZ 204\Udemy Course\Projects\tmp2\learningapp\bin\Publish\learningapp.exe
+C:\Users\Roy Fallas\Desktop\Files\Study\Azure\AZ 204\Udemy Course\Projects\tmp2\learningapp\bin\Publish\appsettings.Development.json
+C:\Users\Roy Fallas\Desktop\Files\Study\Azure\AZ 204\Udemy Course\Projects\tmp2\learningapp\bin\Publish\appsettings.json
+C:\Users\Roy Fallas\Desktop\Files\Study\Azure\AZ 204\Udemy Course\Projects\tmp2\learningapp\bin\Publish\learningapp.dll
+C:\Users\Roy Fallas\Desktop\Files\Study\Azure\AZ 204\Udemy Course\Projects\tmp2\learningapp\bin\Publish\learningapp.deps.json
+C:\Users\Roy Fallas\Desktop\Files\Study\Azure\AZ 204\Udemy Course\Projects\tmp2\learningapp\bin\Publish\learningapp.runtimeconfig.json
+C:\Users\Roy Fallas\Desktop\Files\Study\Azure\AZ 204\Udemy Course\Projects\tmp2\learningapp\bin\Publish\learningapp.pdb
